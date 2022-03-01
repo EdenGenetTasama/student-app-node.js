@@ -1,0 +1,12 @@
+# GET http://localhost:8000/api
+# PUT  http://localhost:8000/api/621d10a8da34a462c03374a5
+
+DELETE  http://localhost:8000/api/621d10a8da34a462c03374a5
+
+Content-Type: application/json
+
+
+{
+    "firstName":"bob",
+    "lastName" :"tass"
+}
